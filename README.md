@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 ## How to running on emulator 
 - open main.dart
-- click RUN AND DEBUG
+- click RUN AND DEBUG on your VSCode
 
 ## How to build apk release
 - write "flutter build apk"
